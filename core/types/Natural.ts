@@ -1,0 +1,1 @@
+export type Natural = string | boolean | number | Date
